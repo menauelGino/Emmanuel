@@ -1,2 +1,2 @@
-# Emmanuel
+# work list
 python.py
